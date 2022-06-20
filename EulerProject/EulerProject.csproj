@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="EvenFibonacciNumbers.cs" />
+    <Compile Include="LargestPrimeDivisor.cs" />
     <Compile Include="Multiplies3or5.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
