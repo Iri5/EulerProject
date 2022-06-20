@@ -1,0 +1,8 @@
+C:\Study\practice\the euler project\EulerProject\EulerProject\bin\Debug\EulerProject.exe.config
+C:\Study\practice\the euler project\EulerProject\EulerProject\bin\Debug\EulerProject.exe
+C:\Study\practice\the euler project\EulerProject\EulerProject\bin\Debug\EulerProject.pdb
+C:\Study\practice\the euler project\EulerProject\EulerProject\obj\Debug\EulerProject.csproj.AssemblyReference.cache
+C:\Study\practice\the euler project\EulerProject\EulerProject\obj\Debug\EulerProject.csproj.SuggestedBindingRedirects.cache
+C:\Study\practice\the euler project\EulerProject\EulerProject\obj\Debug\EulerProject.csproj.CoreCompileInputs.cache
+C:\Study\practice\the euler project\EulerProject\EulerProject\obj\Debug\EulerProject.exe
+C:\Study\practice\the euler project\EulerProject\EulerProject\obj\Debug\EulerProject.pdb
