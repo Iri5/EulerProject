@@ -10,9 +10,8 @@ namespace EulerProject
     {
         static void Main(string[] args)
         {
-                        
+
         }
-        
+
     }
-    
 }
