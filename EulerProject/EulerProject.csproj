@@ -43,12 +43,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DifferenceBetweenSumOfSquaresAndSquareOfTheSum.cs" />
     <Compile Include="EvenFibonacciNumbers.cs" />
     <Compile Include="LargestPrimeDivisor.cs" />
     <Compile Include="LargestProdIsPalindrom.cs" />
     <Compile Include="Multiplies3or5.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SumOf100Factorial.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
